@@ -1,13 +1,89 @@
 megusto,nombre,genero
-0,El padrino,crimen|drama
-1,Forrest gump,drama|comedia
-1,Titanic,drama|romance
-1,ET el extrterrestre,SciFi|aventura
-1,Gladiador,accion|drama
-1,Toy story,animacion|aventura|fantasia
-1,Avatar,SciFi|aventura
-0,La la land,musical|drama|romance
-0,El conjuro,terror|suspenso
-1,La sirenita,animacion|fantasia
-0,Anabelle,terror|suspenso
+0,El padrino,Crimen|Drama
+1,Forrest gump,Drama|Comedia
+1,Titanic,Drama|Romance
+1,ET el extrterrestre,Ciencia Ficción|Aventura
+1,Gladiador,Acción|Drama
+1,Toy story,Animación|Aventura|Fantasía
+1,Avatar,Ciencia Ficción|Aventura
+0,El conjuro,Terror|Suspenso
+1,La sirenita,Animación|Fantasía
+0,Anabelle,Terror|Suspenso
+1,High School Musical,Comedia|Musica
+1,10 cosas que odio de ti,Comedia|Romance|Drama
+0,Star Wars: El Imperio Contraataca,Ciencia Ficción|Aventura|Acción
+0,Pulp Fiction,Crimen|Drama
+1,El Señor de los Anillos: La Comunidad del Anillo,Aventura|Fantasía
+0,El Resplandor,Terror|Suspenso
+0,Matrix,Ciencia Ficción|Acción
+0,Los Vengadores,Ciencia Ficción|Acción
+0,Salvar al soldado perez,Guerra|Acción
+0,El Aro,Terror|Suspenso
+0,La delgada linea roja,Guerra|Drama
+1,Sicario,Acción|Crimen|Drama
+0,Francotirador,Guerra|Biografia|Crimen
+1,El hombre ideal,Comedia|Romance|Drama
+0,Interestelar,Ciencia Ficción|Aventura
+0,Harry Potter y la Piedra Filosofal,Fantasía|Aventura
+0,Deadpool,Acción|Comedia
+0,Duro de Matar,Acción|Thriller
+0,El Gran Hotel Budapest,Comedia|Drama
+0,Psicosis,Terror|Suspenso
+1,El Rey León,Animación|Aventura
+1,Los Increíbles,Animación|Acción
+1,Jurassic Park,Ciencia Ficción|Aventura
+1,Kill Bill: Volumen 1,Acción|Crimen
+1,La Bella y la Bestia,Animación|Fantasía
+0,La Red Social,Drama|Biografía
+1,Regreso al Futuro,Ciencia Ficción|Aventura
+1,Mujer Maravilla,Acción|Aventura
+1,Piratas del Caribe: La Maldición del Perla Negra,Aventura|Fantasía
+0,Señales,Ciencia Ficción|Suspense
+1,Los Simpson: La Película,Animación|Comedia
+1,Frozen,Animación|Aventura
+1,La Gran Estafa,Crimen|Drama
+1,Las Crónicas de Narnia,Aventura|Fantasía
+0,Los Otros,Terror|Suspenso
+1,Las Aventuras de Tintín: El Secreto del Unicornio,Animación|Aventura
+1,Shrek,Animación|Comedia
+0,Mi Vecino Totoro,Animación|Fantasía
+0,300,Acción|Drama
+0,El Renacido,Aventura|Drama
+0,12 Monos,Ciencia Ficción|Thriller
+1,El Efecto Mariposa,Ciencia Ficción|Drama
+1,La Vida es Bella,Comedia|Drama
+0,Apocalypse Now,Drama|Guerra
+0,El Último Samurai,Acción|Drama
+1,El Diario de la Princesa,Comedia|Romance
+0,Los Miserables,Drama|Musical
+0,Blade Runner,Ciencia Ficción|Thriller
+0,El Pianista,Drama|Biografía
+0,Bajo el Sol de la Toscana,Comedia|Drama
+0,Memento,Thriller|Misterio
+0,Inception,Ciencia ficción|Acción
+0,El Gran Lebowski,Comedia|Crimen
+0,Casablanca, Drama|Romance
+0,Spider-Man:Into the Spider-Verse,Animación|Acción
+1,Los Intocables,Crimen|Drama
+0,Moulin Rouge!,Drama|Musical|Romance
+0,La La Land,Comedia musical|Drama|Romance
+0,Tiburón,Terror|Aventura
+0,La Habitación,Drama|Thriller
+0,Guardianes de la Galaxia,Ciencia Ficción|Acción
+1,Aladdín,Animación|Aventura
+1,El Club de la Pelea,Crimen|Drama
+0,Eterno Resplandor de una Mente sin Recuerdos,Ciencia Ficción|Romance|Drama
+1,Los Juegos del Hambre,Aventura|Ciencia Ficción
+0,El Sexto Sentido,Drama|Thriller
+0,La Princesa Mononoke,Animación|Fantasía
+1,El Origen,Ciencia Ficción|Thriller
+0,El Maquinista,Drama|Misterio
+1,12 Años de Esclavitud,Biografía|Drama|Historia
+0,Casino Royale,Acción|Aventura|Thriller
+0,El Gran Gatsby,Drama|Romance
+0,El Renacido,Aventura|Drama
+1,Misión: Imposible,Acción|Aventura|Thriller
+1,Perdida,Crimen|Drama|Misterio
+0,El Cazador,Aventura|Drama|Thriller
+
 
